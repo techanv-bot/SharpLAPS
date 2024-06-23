@@ -32,4 +32,4 @@ Usage: SharpLAPS.exe /user:DOMAIN\User /pass:MyP@ssw0rd123! /host:192.168.1.1
 
 ## Screenshot
 
-![Screenshot](https://github.com/techanvconsulting/SharpLAPS/blob/main/Screenshot/screenshot.png?raw=true)
+![Screenshot](https://github.com/techanv-bot/SharpLAPS/blob/main/Screenshot/screenshot.png?raw=true)
